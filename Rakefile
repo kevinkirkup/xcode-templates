@@ -1,7 +1,5 @@
 require 'fileutils'
 
-task :default => [:install]
-
 xcode_template_dir = ENV['HOME'] + "/Library/Developer/Xcode/Templates"
 
 file_templates = [
@@ -64,7 +62,9 @@ def remove_base(templates, install_dir)
 
 end
 
-# Install the templates in the users home directory
+task :default => [:install]
+
+desc 'Install the templates in the users home directory'
 task :install do
 
   copy_templates working_file_templates, xcode_template_dir
@@ -72,7 +72,7 @@ task :install do
 
 end
 
-# Remove the templates from the users home directory
+desc 'Remove the templates from the users home directory'
 task :uninstall do
 
   # Remove the templates

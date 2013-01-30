@@ -27,6 +27,14 @@ For iOS, the template files are located at:
 
 ## Getting Started
 
+A Rakefile has been include to aid in the installation.
+The installation commands are listed below. For a full description of all
+available rake tasks, run:
+
+```bash
+rake -D
+```
+
 ### Installation
 
 Install the files in to your personal templates directory
