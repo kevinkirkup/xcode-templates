@@ -27,11 +27,11 @@ rake uninstall
 The templates will now show up in XCode when you try to create a new file or project.
 Right click in the Project Navigator or select *File > New... > File* in the Menu to create a new file.
 
-<img src="http://raw.github.com/kevinkirkup/xcode-templates/master/Resources/new_file__menu.png" />
-<img src="http://raw.github.com/kevinkirkup/xcode-templates/master/Resources/new_file__project_navigator.png" />
+<img src="https://raw.github.com/kevinkirkup/xcode-templates/master/Resources/new_file__menu.png" />
+<img src="https://raw.github.com/kevinkirkup/xcode-templates/master/Resources/new_file__project_navigator.png" />
 
 The new template group will show up in the File Wizard.
-<img src="http://raw.github.com/kevinkirkup/xcode-templates/master/Resources/new_templates.png" />
+<img src="https://raw.github.com/kevinkirkup/xcode-templates/master/Resources/new_templates.png" />
 
 Select the template and you are on your way.
 
