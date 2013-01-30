@@ -4,6 +4,27 @@ This project contains my custom XCode project and file templates.
 Please feel free to use them as you wish. If you find bugs or have improvement
 suggestions, please feel free to shoot me a pull request.
 
+Further information is available at [Bob McCune's Blog]("http://www.bobmccune.com/2012/03/04/creating-custom-xcode-4-file-templates/")
+
+The base file and project templates use for iOS and OSX are contained in the XCode bundle.
+The templates files are stored in the individual users library directory:
+
+    /Users/kevinkirkup/Library/Developer/Xcode/Templates
+
+<img src="https://raw.github.com/kevinkirkup/xcode-templates/master/Resources/install_directory.png" />
+
+## Mac
+
+For Mac OSX, the template files are located at:
+
+    /Applications/Xcode.app/Contents/Developer/Library/Xcode/Templates
+
+## iOS
+
+For iOS, the template files are located at:
+
+    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Templates
+
 ## Getting Started
 
 ### Installation
@@ -43,6 +64,8 @@ Select the template and you are on your way.
 ## Credits
 
 [Kevin Kirkup](https://github.com/kevinkirkup)([@pan_and_scan](http://twitter.com/pan_and_scan))
+
+Thanks to [Bob McCune](https://github.com/tapharmonic) for posting the instructions on his blog.
 
 ## License
 
