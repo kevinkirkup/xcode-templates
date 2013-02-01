@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>An Launch Agent XML property list file.</string>
+	<key>Kind</key>
+	<string>Xcode.IDEKit.TextSubstitutionFileTemplateKind</string>
+	<key>MainTemplateFile</key>
+	<string>___FILEBASENAME___.plist</string>
+	<key>Summary</key>
+  <string>An XML property list file for Launch Agent to run daemons on OSX similiar to cron.
+    For a complete list of avalable plist tags, checkout http://developer.apple.com/library/mac/#documentation/Darwin/Reference/ManPages/man5/launchd.plist.5.html#//apple_ref/doc/man/5/launchd.plist
+    To get things started, checkout the Apple documenation on creating and launching custom daemons: http://developer.apple.com/library/mac/#documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/CreatingLaunchdJobs.html
+  </string>
+</dict>
+</plist>

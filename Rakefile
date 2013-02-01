@@ -3,7 +3,8 @@ require 'fileutils'
 xcode_template_dir = ENV['HOME'] + "/Library/Developer/Xcode/Templates"
 
 file_templates = [
-  'UnitTests/*.xctemplate'
+  'UnitTests/*.xctemplate',
+  'Resource/*.xctemplate'
 ]
 
 project_templates = [
