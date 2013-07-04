@@ -11,7 +11,7 @@ The templates files are stored in the individual users library directory:
 
     /Users/kevinkirkup/Library/Developer/Xcode/Templates
 
-<img src="https://raw.github.com/kevinkirkup/xcode-templates/master/Resources/install_directory.png" />
+![Install Directory](./Resources/install_directory.png)
 
 ## Mac
 
@@ -57,15 +57,15 @@ The templates will now show up in XCode when you try to create a new file or pro
 
 To create a new file base on one of your templates, select *File > New... > File* in the Menu
 
-<img src="https://raw.github.com/kevinkirkup/xcode-templates/master/Resources/new_file__menu.png" />
+![New File - Menu](./Resources/new_file__menu.png)
 
 or Right click in the Project Navigator.
 
-<img src="https://raw.github.com/kevinkirkup/xcode-templates/master/Resources/new_file__project_navigator.png" />
+![New File - Project Navigator](./Resources/new_file__project_navigator.png)
 
 The new template group will show up in the File Wizard.
 
-<img src="https://raw.github.com/kevinkirkup/xcode-templates/master/Resources/new_templates.png" />
+![New Templates](./Resources/new_templates.png)
 
 Select the template and you are on your way.
 
